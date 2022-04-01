@@ -14,6 +14,8 @@ function App() {
 
       <div>
         <User/>
+        <User/>
+        <User/>
       </div>
 
       <br/>

@@ -2,6 +2,7 @@
   border: 3px solid rgb(27, 125, 236);
   display: flex;
   gap: 10px;
+  background-color: rgb(232, 157, 241);
 }
 
 .line {
