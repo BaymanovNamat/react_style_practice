@@ -10,7 +10,7 @@ function App() {
       <div>
         <User/>
       </div>
-      
+
     </div>
   );
 }
