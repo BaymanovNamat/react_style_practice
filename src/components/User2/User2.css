@@ -1,0 +1,31 @@
+.User2 {
+  border: 3px solid rgb(27, 125, 236);
+  display: flex;
+  gap: 10px;
+}
+
+.line {
+  border: 2px solid rgb(228, 157, 25);
+  padding: .2rem;
+}
+
+.User2.modifygreen {
+  border-color: green;
+}
+
+
+.User2.modifyred {
+  border-color: rgb(224, 18, 18);
+}
+
+.User2.modifyyellow {
+  border-color: rgb(239, 255, 9);
+}
+
+.User2.modifyviolet {
+  border-color: rgb(228, 19, 182);
+}
+
+.User2.modifyviocyan {
+  border-color: rgb(33, 236, 209);
+}
